@@ -1,0 +1,8 @@
+Proyecto
+org.math.plot
+org.math.plot.canvas
+org.math.plot.components
+org.math.plot.plotObjects
+org.math.plot.plots
+org.math.plot.render
+org.math.plot.utils
